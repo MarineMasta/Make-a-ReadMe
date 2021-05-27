@@ -55,5 +55,4 @@ ${githubData.email}
 `;
 }
 
-module.exports.generateTemplate = (data, githubData);
 module.exports = generateTemplate;
